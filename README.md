@@ -1,7 +1,9 @@
 # Toolkit
 This is a code repository that stores commonly used tools.
 
-# SMPL High-Resolution Mesh Subdivision Toolkit (meshsubdivide)
+---
+
+# SMPL High-Resolution Mesh Subdivision (meshsubdivide)
 
 This repository provides tools for subdividing the SMPL mesh and generating a high-resolution SMPL model with fully updated parametric components.
 
@@ -22,7 +24,5 @@ This repository provides tools for subdividing the SMPL mesh and generating a hi
 - **model_test.py** — Testing and visualization of the subdivided model  
 - **meshfitting.py** — SMPL+D fitting to target meshes  
 - **util/config.py** — Configuration of input/output paths  
-
+_Updated: **2025-11-15**_
 ---
-
-_Last updated: **2025-02-15**_
