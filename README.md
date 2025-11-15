@@ -24,5 +24,6 @@ This repository provides tools for subdividing the SMPL mesh and generating a hi
 - **model_test.py** — Testing and visualization of the subdivided model  
 - **meshfitting.py** — SMPL+D fitting to target meshes  
 - **util/config.py** — Configuration of input/output paths  
+
 _Updated: **2025-11-15**_
 ---
